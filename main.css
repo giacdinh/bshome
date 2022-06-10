@@ -1,18 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<meta charset="UTF-8">
-<title>Bac Son Technologies</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="">
 <style>
 html,body {font-family:"Verdana",sans-serif}
 h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
 h1 {text-align: center;}
 body {background: linear-gradient(to bottom, #79B1ED 0%, #ffffff 50%);
       background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: 100% 20%;
-      background-image: url('img/rfimage.png');}
+      background-size: 100% 180px;
+	  background-image: url('img/rfimage.png');
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -114,34 +108,13 @@ html {
 hr.solid {
   border-top: 2px solid #79B1ED;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 </style>
-
-<body style="background-color:white;"> 
-<img src="img/bsicon.png" width="150" height="150"></a>
-
-<h1 style="color:#6BAFE5;font-size:50px;"> Bac Son Technologies</h1>
-<div class="topnav" style="font-size:20px">
-<ul>
-  <li><a class="active" href="index.html">Home</a></li>
-  <li><a href="products.html">Products</a></li>
-  <li><a href="news.html">News</a></li>
-  <li><a href="shop.html">Shop</a></li>
-  <li><a href="support.html">Support</a></li>
-  <div class="topnav-right">
-    <li><a href="customer.html">Customer Login</a></li>
-    <li><a href="about.html">About</a></li>
-    <li><a href="contact.html">Contact</a></li>
-  </div>
-</ul>
-</div>
-<div>
-<p>            Contact </p>
-   <hr class="solid" width="70%">
-<p>Bac Son Technologies</p>  
-<p>2360 Black Hammock Rd</p>
-<p>Oviedo,   Florida 32765</p>
-<p>407-416-1064</p>
-<p>ghecu@hotmail.com </p>
-</div>
 
 
